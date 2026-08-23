@@ -1,0 +1,2 @@
+# Nuvio-config
+Collections/Catalogs
